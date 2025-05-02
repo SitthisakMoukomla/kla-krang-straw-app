@@ -7,7 +7,7 @@ import geemap.foliumap as geemap
 st.set_page_config(page_title="ระบบประเมินฟางข้าว", layout="wide")
 
 # === แสดงโลโก้บริษัท ===
-st.image("378034341_330380276014601_880975176463400977_n.jpg", width=120)
+st.image("logo.jpg", width=120)
 st.markdown("""
 # ระบบประเมินปริมาณฟางข้าวเพื่อบริหารจัดการชีวมวล  
 ### บริษัท กล้า-แกร่ง จำกัด • จังหวัดนครสวรรค์
